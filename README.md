@@ -2,7 +2,7 @@
 Tiny-GPT: трансформер своими лапками. 
 
 Написала decoder-only, character-based трансформер с нуля на PyTorch на основе статьи "Attention is all you need", 2017
-https://arxiv.org/pdf/1706.03762v5.pdf
+(https://arxiv.org/pdf/1706.03762v5.pdf)
 и двух видео от Андрея Карпаты
 1) https://www.youtube.com/watch?v=kCc8FmEb1nY&t=1s
 
