@@ -9,6 +9,7 @@ Tiny-GPT: трансформер своими лапками.
 2) https://www.youtube.com/watch?v=XfpMkf4rD6E&list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM&index=11
 
 Для ускорения процесса обучения использовала torch.compile() из PyTorch 2.0.
+
 В качестве обучающего датасета был выбран роман в стихах А. С. Пушкина "Евгений Онегин" (файл в данном репозитории "input_Onegin.txt").
 Для обучения использовала Т4 на Google Colab. С использованием torch.compile() процесс обучения длился менее 5ти минут.
 
