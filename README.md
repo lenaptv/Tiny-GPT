@@ -10,3 +10,4 @@ https://arxiv.org/pdf/1706.03762v5.pdf
 
 Для ускорения процесса обучения использовала torch.compile() из PyTorch 2.0.
 По своей архитектуре - это только декодер, то есть отсутсвует часть, выделенная красным на рисунке ниже, в отличие от архитектуры, описанной в оригинальной статье "Attention is all you need"
+![] https://github.com/lenaptv/Tiny-GPT-/blob/main/decoder-only.png
